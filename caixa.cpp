@@ -169,7 +169,7 @@ cin >> valor ;
         break;
         
         case 4:
-        	int main();
+        	int sair();
         	break;
 		
 		  
@@ -188,10 +188,12 @@ cin >> valor ;
 
     
     
-
-
-    }
+}	
 
 
 }
+	
+int sair(){
+	int main();
 
+}	

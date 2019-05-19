@@ -61,7 +61,7 @@ cin >> valor ;
 
            
             excaixa();
-            
+            break;
 
         case 2: 
             ;
